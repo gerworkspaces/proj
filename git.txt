@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m 'message of the commit'
+git push
+
+git branch
+git branch branchName
+git checkout branchName
+
+git checkout -b branchName
+
+git merge branchName(footer)
+git pull
